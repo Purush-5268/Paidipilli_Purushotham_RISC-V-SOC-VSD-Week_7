@@ -1,4 +1,4 @@
-🚀 *Week 7 VLSD Physical Design – RTL → GDS → SPEF Full Flow*
+# 🚀 *Week 7 VLSD Physical Design – RTL → GDS → SPEF Full Flow*
 
 ---
 
